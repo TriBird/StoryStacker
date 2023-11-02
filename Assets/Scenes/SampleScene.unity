@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 404569020}
   - component: {fileID: 404569019}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: story_board
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -480,7 +480,7 @@ GameObject:
   - component: {fileID: 1308951405}
   - component: {fileID: 1308951404}
   m_Layer: 5
-  m_Name: Image
+  m_Name: story_instance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
