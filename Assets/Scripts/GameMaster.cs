@@ -52,4 +52,9 @@ public class GameMaster : MonoBehaviour{
 		// Take out the stories one by one 
 		TakeoutStory();
 	}
+
+	public IEnumerator Story_BraveAppear(){
+		
+		yield break;
+	}
 }
