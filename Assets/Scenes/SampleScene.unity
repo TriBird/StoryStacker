@@ -376,11 +376,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 846dde78c93aca74e8ebaf2fae3242a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  story_title: 
+  master: {fileID: 27778010}
+  story_title: "\u304B\u304E"
   story_description: 
+  equipment: 
   storytype: 0
   isDragEnable: 1
-  master: {fileID: 27778010}
+  isMerged: 0
 --- !u!114 &215555462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -907,11 +909,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 846dde78c93aca74e8ebaf2fae3242a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  master: {fileID: 27778010}
   story_title: 
   story_description: 
+  equipment: 
   storytype: 0
   isDragEnable: 1
-  master: {fileID: 27778010}
+  isMerged: 0
 --- !u!114 &453990825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1523,11 +1527,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 846dde78c93aca74e8ebaf2fae3242a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  master: {fileID: 27778010}
   story_title: 
   story_description: 
+  equipment: 
   storytype: 0
   isDragEnable: 1
-  master: {fileID: 27778010}
+  isMerged: 0
 --- !u!114 &685904901
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1779,11 +1785,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 846dde78c93aca74e8ebaf2fae3242a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  master: {fileID: 27778010}
   story_title: 
   story_description: 
-  storytype: 0
+  equipment: 
+  storytype: 1
   isDragEnable: 1
-  master: {fileID: 27778010}
+  isMerged: 0
 --- !u!114 &964489092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2094,11 +2102,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 846dde78c93aca74e8ebaf2fae3242a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  master: {fileID: 27778010}
   story_title: 
   story_description: 
-  storytype: 0
+  equipment: 
+  storytype: 2
   isDragEnable: 1
-  master: {fileID: 27778010}
+  isMerged: 0
 --- !u!61 &1308951407
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2423,11 +2433,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 846dde78c93aca74e8ebaf2fae3242a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  story_title: 
+  master: {fileID: 27778010}
+  story_title: "\u3064\u308B\u304E"
   story_description: 
+  equipment: 
   storytype: 0
   isDragEnable: 1
-  master: {fileID: 27778010}
+  isMerged: 0
 --- !u!114 &1480034653
 MonoBehaviour:
   m_ObjectHideFlags: 0

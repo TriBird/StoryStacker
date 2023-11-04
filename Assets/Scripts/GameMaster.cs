@@ -34,6 +34,10 @@ public class GameMaster : MonoBehaviour{
 		stackedstories.RemoveAt(stackedstories.Count - 1);
 
 		story.transform.DOLocalMove(new Vector3(700,280,0), 0.5f);
+
+		if(story.storytype == StoryCtrl.StoryType.Brave){
+			
+		}
 	}
 
 	// Press story play button
@@ -53,8 +57,4 @@ public class GameMaster : MonoBehaviour{
 		TakeoutStory();
 	}
 
-	public IEnumerator Story_BraveAppear(){
-		
-		yield break;
-	}
 }
